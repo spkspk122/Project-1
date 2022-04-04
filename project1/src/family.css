@@ -1,0 +1,441 @@
+.mailidandphone{
+    display: flex;
+    float: left;
+}
+.mailid:hover{
+    background-color:  gray
+}
+.phone{
+    color: white;
+    margin-right:50px;
+    margin-left: 50px;
+}
+.mailid{
+    color: white;
+    margin-right:15px;
+    margin-left: 15px;
+}
+.phone:hover{
+    background-color: gray;
+}
+.navi{
+    background-color: rgb(10, 105, 230);
+    padding:30px;
+    width: 100%;
+}
+.socialmedia{
+    display: flex;
+    float: right;
+    color: white;
+    
+    border-bottom: 130px;
+    
+}
+
+.printrest:hover{
+    background-color:red ;
+}
+.google:hover{
+    background-color:green;
+}
+.twitter:hover{
+    background-color: lightskyblue;
+}
+.facebook:hover{
+    background-color: darkblue;
+}
+.globe:hover{
+    background-color:yellow;
+}
+.logo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    font-weight: 100;
+    color: rgba(8, 83, 247, 0.795);
+
+}
+.logo1{
+    margin-left: 220px;
+}
+.logo2{
+    font-size: x-large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.image{
+       width: 100%;
+       height: 100%;
+    }
+    .center {
+        position:absolute;
+        top: 110%;
+        left: 56%;
+        transform: translate(-50%, -50%);
+        font-size: 18px;
+        image-resolution: 100%;
+        
+        
+        
+      }
+      .text1{
+          color: whitesmoke;
+          font-size:x-large;
+          font-weight: 700;
+      }
+      .text2{
+          color: whitesmoke;
+          font-size:35px;
+          font-weight:bold;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          margin-top: 75px;
+          margin-bottom: 15px;
+          margin-left: 150px;
+
+      }
+      .kn{
+          margin-left: 150px;
+          font-weight: bolder;
+          color: white;
+          font-size: 25px;
+          border: 4px solid white;
+      }
+      .image1{
+          display:flex;
+          border: 2px  solid black;
+          margin-top: 10px;
+          margin-bottom: 10px;
+          margin-left: 300px;
+          margin-right: 10px;
+          width:200px;
+          height: 100px;
+      }
+      .title{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: x-large;
+        font-weight: 1000;
+        color: rgba(8, 83, 247, 0.795);
+      }
+      .title1{
+        font-size: x-large;
+        font-family:Arial, Helvetica, sans-serif;
+      }
+      .title2{
+          font-size: 50px;
+          font-weight: 500;
+         text-align: justify;
+      }
+      .title3{
+          font-size:thin;
+          font-weight: 500;
+      }
+      .heading{
+          text-align: center;
+        }
+      .building{
+          height: 500px;
+          width: 1000px;
+          margin-left: 250px;
+      } 
+      
+      .repeat{
+          color:white;
+          margin: 200px;
+          margin-bottom: 100px;
+         height: 100px;
+          border-radius: 2px;
+          border: 4px white solid;
+        }
+        .like{
+            color:rgba(221, 18, 18, 0.644);
+            margin: -70px;
+            border: 4px solid whitesmoke;
+            
+        }
+        .address{
+            background-color: rgb(0, 162, 255);
+            border: 2px solid rgb(0, 162, 255);
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-left: 300px;
+            margin-right: 300px;
+            padding: 20px;
+            position: absolute;
+        top: 180%;
+        
+        left:37%;
+        }
+        .beds{
+            color: white;
+        }
+        .text3{
+            color:white;
+            font-size: 25px;
+            font-weight: 300;
+        }
+        .text4{
+            color:whitesmoke;
+            font-size: 20px;
+            font-weight: 250;
+        }
+        .rent{
+            color: white;
+            font-size: bold;
+        }
+        .price{
+            color: whitesmoke;
+            font-size: 20px;
+        }
+        .google{
+            color: white;
+            margin-right:15px;
+            margin-left: 15px;
+        }
+        .printrest{
+            color: white;
+            margin-right:15px;
+            margin-left: 15px;
+        }
+        .twitter{
+            color: white;
+            margin-right:15px;
+            margin-left: 15px;
+        }
+        .facebook{
+            color: white;
+            margin-right:15px;
+            margin-left: 15px;
+        }
+        .globe{
+            color: white;
+            margin-right:15px;
+            margin-left: 15px;
+        }
+        .buliding1{
+            display: flex;
+            justify-content:space-evenly
+        }
+        .constr1{
+            margin-left: 160px;
+            width: 290px;
+            height: 290px;
+        }
+        .constr2{
+            width: 290px;
+            height: 290px;
+        }
+        .words{
+            margin-left: 140px;
+            font-weight: 500;
+        }
+        .constr3{
+            width: 290px;
+            height: 290px;
+        }
+        .words1{
+            font-weight: 500;
+        }
+        .words2{
+            font-weight: 500;
+        }
+      .flex1{
+          
+          margin-left: 20px;
+      }
+      .image2{
+          height:800px;
+          width: 600px;
+          margin-left: 800px;
+      }
+      .words3{
+        font-size: 30px;
+        font-weight: 400;
+        position:absolute;
+        right:25%;
+        left: 20%;
+        top:340%;
+      }
+      .words4{
+          font-size:17px;
+      }
+      .title4{
+          font-size: 50px;
+      }
+      .title5{
+          font-size: 50px;
+          font-weight: bold;
+      }
+      .title6{
+          font-size: 50px;
+          font-weight: bold;
+      }
+      .title7{
+          font-size: 30px;
+      }
+      .words5{
+          margin-left: 140px;
+          margin-right: 190px;
+      }
+      .heading2{
+          text-align: center;
+      }
+      .quote{
+          font-size: 60px;
+          font-weight: bolder;
+      }
+      .customer1{
+      border-radius:50%;
+      height: 100px;
+      width: 100px;
+      margin-right: 50px;
+      opacity: 0.5;
+      }
+      .c2{
+        height: 100px;
+        width: 100px;
+        margin-right: 50px;
+      }
+      .c3{
+        height: 100px;
+        width: 100px;
+        margin-right: 50px;
+        background-color: blue;
+        border-radius: 2%;
+      }
+      .customer2{
+        border-radius:50% ;
+        border: 3px solid rgba(4, 0, 255, 0.795);
+        height: 100px;
+        width: 100px;
+        margin-right: 50px;
+    }
+    .heading3{
+        text-align: center;
+    }
+    .words6{
+        font-size: 30px;
+        font-weight: thin;
+    }
+    .words7{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .house{
+        display: flex;
+        margin-left: 200px;
+        
+    }
+    .house2{
+        display:grid;
+        margin-left: 10px;
+        column-gap: 50px;
+        row-gap: 20px;
+    }
+    .house3{
+        display: grid;
+        margin-left: 10px;
+        column-gap: 50px;
+        row-gap: 20px;
+    }
+    .house1{
+        height: 100px;
+        
+    }
+    .emailpart{
+        text-align: center;
+        background-color: rgb(50, 62, 233);
+        padding: 50px;
+    }
+    .words8{
+        color: white;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    .words9{
+        color: white;
+        margin-right: 230px;
+        margin-left: 250px;
+    }
+    .emailid1{
+        width: 50%;
+        padding: 5px;
+        border-radius: 6px;
+        
+    }
+    .btn1{
+       color: white;
+       background-color: skyblue;
+       padding: 3px;
+       border-radius:5%;
+
+    }
+    .estate{
+        text-align: center;
+        width: 100%;
+        
+    }
+    .titlenew{
+        color: white;
+        font-size: 50px;
+        font-weight: 500;
+    }
+    .titlenew1{
+        color: blue;
+        font-size: 50px;
+        font-weight: 500;
+    }
+    
+    .estate2{
+        position:absolute;
+        top: 620%;
+        left: 35%;
+    }
+    .estate1{
+        opacity: 0.7;
+        width: 100%;
+        height: 100px;
+        
+    }
+    .n{
+        color:red;
+        margin-left: 50px;
+        justify-content: space-between;
+        font-weight:bold;
+        font-size: bold;
+    }
+    .end{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .about{
+        font-weight:bold;
+     }
+     .navi1{
+         background-color: black;
+         padding:25px;
+    width: 100%;
+     }
+     .socialmedia2{
+         margin-right: 600px;
+         
+     }
+     .footerterms{
+         color: white;
+         margin-left: 600px;
+         float: right;
+         font-size: 15px;
+         margin-top: 1px;
+         
+     }
+     .plusbtn{
+         text-align: center;
+         color: white;
+         background-color: blue;
+         margin-left: 700px;
+
+     }
+     .knowmore{
+        margin-left: 690px;
+     }
+     .border1{
+         width: 100%;
+         border: 1px solid black;
+     }
